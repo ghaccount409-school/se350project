@@ -1,0 +1,6 @@
+[submodule "project_root/lib/project_root/lib/jsyn"]
+	path = project_root/lib/project_root/lib/jsyn
+	url = https://github.com/philburk/jsyn
+[submodule "project_root/lib/jsyn"]
+	path = project_root/lib/jsyn
+	url = https://github.com/philburk/jsyn
