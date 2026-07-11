@@ -6,3 +6,9 @@
 - https://github.com/ghaccount409-school/se350project
 - I have a hello world program.
 - The entry point is src/HelloWorld/HelloWorld.java
+
+
+## PROJECT IDEA:
+Synthesizer Application
+- I would like to build a synthesizer module that has a nice, intuitive GUI and visualizer
+- MIDI capability
