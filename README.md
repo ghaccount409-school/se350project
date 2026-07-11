@@ -1,4 +1,4 @@
-# se350project
+# SE 350 Project
 ## CHECKLIST:
 - I am not in a group.
 - I have my github account set up
