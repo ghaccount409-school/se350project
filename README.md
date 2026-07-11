@@ -13,5 +13,6 @@ Synthesizer Application
 - I would like to build a synthesizer module that has a nice, intuitive GUI and visualizer
 - MIDI capability
 - JSyn and Java Sound API
+- JavaFX for GUI(sliders, knobs, lights, oscilloscope)?
 - Vocoder(use Java Sound API external audio input, and process through JSyn)
 - 
